@@ -1,4 +1,4 @@
-![#30DaysOfKotlin](https://drive.google.com/open?id=1qeUEDmD0uXz7WWn0xVKT1YGQeoFnBute)
+![#30DaysOfKotlin](https://github.com/jainayu/Android-Kotlin-Fundamentals/blob/master/%2330DaysOfKotlin.png)
 
 # Android-Kotlin-Fundamentals
 This repository is for #30DaysOfKotlin, all applications and concepts I learnt from Android Kotlin Fundamentals Codelabs.
