@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Aayush Jain</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et sem tempor, ultricies felis vel,
+        tristique diam. Donec sed elit eu nisl eleifend luctus rhoncus eget magna. Aliquam malesuada ligula in lobortis mollis.
+        Phasellus feugiat felis augue, et viverra sem dictum ut. Duis venenatis vehicula tristique. Proin efficitur sapien faucibus lectus posuere
+        lacinia. Duis vehicula, orci id dictum aliquet, nunc arcu tincidunt ante, sit amet pretium turpis odio vel nunc. Aenean aliquet et arcu eget
+        congue. Nam rhoncus risus id quam pulvinar, vel fermentum metus mollis. Integer vulputate nulla elit, sit amet ullamcorper massa facilisis placerat.
+        Pellentesque massa libero, luctus non facilisis vitae, pretium a arcu.\n Quisque magna dolor, ullamcorper vestibulum mauris et, mattis lobortis erat.
+        Nunc euismod, ante fermentum lobortis pellentesque, odio nibh semper lectus, sed vestibulum nunc erat quis mi. In scelerisque mauris id ex ultrices,
+        quis interdum tellus volutpat. Quisque consequat neque ut mauris ullamcorper, at mollis lorem vehicula. Aliquam vulputate mi mauris, a scelerisque
+        sapien rhoncus pulvinar. Fusce vitae tincidunt quam. Integer elementum, tellus vel convallis vehicula, arcu quam scelerisque odio, ac facilisis nulla
+        nibh egestas arcu. Aenean sollicitudin volutpat orci ac consequat. Aenean non laoreet dui. Proin in tincidunt erat. Curabitur arcu ligula, gravida vel
+        nisi a, convallis accumsan risus. Quisque ut nunc sapien. Nullam sagittis eleifend arcu, nec fringilla augue imperdiet quis. Aliquam interdum aliquam dictum.
+        Pellentesque porttitor nisl vitae libero vehicula, quis mattis sem convallis.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
