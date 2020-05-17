@@ -1,0 +1,4 @@
+#Mon May 18 02:19:37 IST 2020
+base.0=/home/aiza/AndroidStudioProjects/AndroidProjects/Android-Kotlin-Fundamentals/DessertClicker/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
