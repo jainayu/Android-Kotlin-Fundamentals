@@ -3,7 +3,7 @@
 # Android Kotlin Fundamentals
 This repository is for #30DaysOfKotlin, all applications and concepts I learnt from [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview) Codelabs.
 I also draughted some of the important points I found, you can check the notes my clicking [here](https://www.evernote.com/shard/s672/sh/6ec55366-19fb-4dd5-826d-a266801d00f7/8e2bd36a9a3c407b9f7fb8fc9bf7e0b3)
-<br>{Notes are updated till lesson 4.1:  Lifecycles and logging}
+<br>{Notes are updated till lesson 4 (complete)}
 
 ## [Lesson 1: Build your first app](https://developer.android.com/courses/kotlin-android-fundamentals/overview#lesson_1_build_your_first_app)
 
@@ -16,6 +16,9 @@ In Lesson 2, I learnt how to use the Android Studio Layout Editor to create line
 ## [Lesson 3: Navigation](https://codelabs.developers.google.com/codelabs/kotlin-android-training-create-and-add-fragment/index.html?index=..%2F..android-kotlin-fundamentals#0)
 
 In Lesson 3, I learnt how to create useful navigation in an app. I created a fragment and added it to an app, then I added navigation to the app using the Android Studio navigation graph. I added a navigation drawer and an options menu to the app, and I worked with the app's back stack, changing the destination of the system Back button. Finally, I learnt how to invoke an external activity from within the app.
+
+## [Lesson 4: Activity and fragment lifecycles](https://codelabs.developers.google.com/codelabs/kotlin-android-training-lifecycles-logging/index.html?index=..%2F..android-kotlin-fundamentals#0)
+In Lesson 4, I learnt about the activity and fragment lifecycles, and I learnt how to manage complex lifecycle situations. I worked with a starter app that contains several bugs related to the Android lifecycle. I added logging to the app to better understand the app's lifecycle events, and I fixed the bugs that the app contains and added some enhancements to the app. I also learnt about Android Jetpack's lifecycle library, which can help you manage lifecycle events with code that's better organized and easier to maintain.
 
 
 
