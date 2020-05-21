@@ -3,7 +3,7 @@
 # Android Kotlin Fundamentals
 This repository is for #30DaysOfKotlin, all applications and concepts I learnt from [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview) Codelabs.
 I also draughted some of the important points I found, you can check the notes my clicking [here](https://www.evernote.com/shard/s672/sh/6ec55366-19fb-4dd5-826d-a266801d00f7/8e2bd36a9a3c407b9f7fb8fc9bf7e0b3)
-<br>{Notes are updated till lesson 4 (complete)}
+<br>{Notes are updated till lesson 5 (complete)}
 
 ## [Lesson 1: Build your first app](https://developer.android.com/courses/kotlin-android-fundamentals/overview#lesson_1_build_your_first_app)
 
@@ -19,6 +19,11 @@ In Lesson 3, I learnt how to create useful navigation in an app. I created a fra
 
 ## [Lesson 4: Activity and fragment lifecycles](https://codelabs.developers.google.com/codelabs/kotlin-android-training-lifecycles-logging/index.html?index=..%2F..android-kotlin-fundamentals#0)
 In Lesson 4, I learnt about the activity and fragment lifecycles, and I learnt how to manage complex lifecycle situations. I worked with a starter app that contains several bugs related to the Android lifecycle. I added logging to the app to better understand the app's lifecycle events, and I fixed the bugs that the app contains and added some enhancements to the app. I also learnt about Android Jetpack's lifecycle library, which can help you manage lifecycle events with code that's better organized and easier to maintain.
+
+## [Lesson 5: Architecture components](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model/index.html?index=..%2F..android-kotlin-fundamentals#0)
+Lesson 5 taught me how to use ViewModel and LiveData objects. I learnt how to use ViewModel objects to enable data to survive configuration changes such as screen rotations. I converted an app's UI data into encapsulated LiveData and added observer methods that are notified when the value of the LiveData changes.
+
+I also integrated LiveData and ViewModel with data binding so that the views in your layout communicate directly with ViewModel objects, without using the app's fragments to relay information. This technique simplifies our code and eliminates the need for click handlers in the UI controllers.
 
 
 
