@@ -25,6 +25,8 @@ Lesson 5 taught me how to use ViewModel and LiveData objects. I learnt how to us
 
 I also integrated LiveData and ViewModel with data binding so that the views in your layout communicate directly with ViewModel objects, without using the app's fragments to relay information. This technique simplifies our code and eliminates the need for click handlers in the UI controllers.
 
+## [Lesson 6: Room database and coroutines](https://codelabs.developers.google.com/codelabs/kotlin-android-training-room-database/index.html?index=..%2F..android-kotlin-fundamentals#0)
+Lesson 6 taught me how to use the Room(https://developer.android.com/topic/libraries/architecture/room) database library. Room takes care of many of the chores of setting up and configuring a database, and simplifies the code for interacting with the database. I learnt how to use Kotlin coroutines to move database operations away from the main thread, and I learnt more about using ViewModel and LiveData with app navigation.
 
 
 
