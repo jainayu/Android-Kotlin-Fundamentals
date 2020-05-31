@@ -3,7 +3,7 @@
 # Android Kotlin Fundamentals
 This repository is for #30DaysOfKotlin, all applications and concepts I learnt from [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview) Codelabs.
 I also draughted some of the important points I found, you can check the notes my clicking [here](https://www.evernote.com/shard/s672/sh/6ec55366-19fb-4dd5-826d-a266801d00f7/8e2bd36a9a3c407b9f7fb8fc9bf7e0b3)
-<br>{Notes are updated till lesson 6 (complete)}
+<br>{Notes are updated till lesson 7.2, DiffUtil and data binding with RecyclerView}
 
 ## [Lesson 1: Build your first app](https://developer.android.com/courses/kotlin-android-fundamentals/overview#lesson_1_build_your_first_app)
 
