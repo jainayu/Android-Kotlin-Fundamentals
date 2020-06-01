@@ -1,4 +1,4 @@
-t/*
+/*
  * Copyright 2019, The Android Open Source Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -49,7 +49,9 @@ class SleepTrackerViewModel(
         formatNights(nights, application.resources)
     }
 
-
+    private val _navigateToSleepDetail = MutableLiveData<Long>()
+    val navigateToSleepDetail
+        get() = _navigateToSleepDetail
     private var tonight = MutableLiveData<SleepNight?>()
 
     val startButtonVisible = Transformations.map(tonight) {
@@ -143,5 +145,12 @@ class SleepTrackerViewModel(
         viewModelJob.cancel()
     }
 
+    fun onSleepNightClicked(id: Long) {
+        _navigateToSleepDetail.value = id
+    }
+
+    fun onSleepDetailNavigated() {
+        _navigateToSleepDetail.value = null
+    }
 }
 
